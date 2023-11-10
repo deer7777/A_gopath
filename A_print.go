@@ -6,6 +6,6 @@ import (
 )
 
 func A_print() {
-	fmt.Println("version_A_gopath")
+	fmt.Println("version_A_v0.0.0")
 	PrintNow.PrintNow()
 }
